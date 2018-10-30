@@ -2,6 +2,14 @@
   "name": "bookstore",
   "version": "0.0.0",
   "license": "MIT",
+  "owner": {
+    "email": "sdthsn@outlook.com",
+    "name": "Shahadat Hossain"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdthsn/BookStore.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve --extract-css",
