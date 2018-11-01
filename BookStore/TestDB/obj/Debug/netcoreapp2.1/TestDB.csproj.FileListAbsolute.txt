@@ -20,3 +20,14 @@ C:\Code\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.AssemblyInfoInputs.cache
 C:\Code\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.AssemblyInfo.cs
 C:\Code\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.dll
 C:\Code\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.pdb
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\bin\Debug\netcoreapp2.1\TestDB.deps.json
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\bin\Debug\netcoreapp2.1\TestDB.runtimeconfig.json
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\bin\Debug\netcoreapp2.1\TestDB.runtimeconfig.dev.json
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\bin\Debug\netcoreapp2.1\TestDB.dll
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\bin\Debug\netcoreapp2.1\TestDB.pdb
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.csproj.CoreCompileInputs.cache
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.AssemblyInfoInputs.cache
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.AssemblyInfo.cs
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.dll
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.pdb
+C:\Users\sHossain\Source\Repos\BookStore\BookStore\TestDB\obj\Debug\netcoreapp2.1\TestDB.csprojAssemblyReference.cache

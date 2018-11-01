@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStore",
+    "\\BookStore\\bookstore",
+    "\\BookStore\\bookstore\\ClientApp",
+    "\\BookStore\\TestDB"
+  ],
+  "SelectedNode": "\\BookStore\\bookstore\\bookstore.sln",
+  "PreviewInSolutionExplorer": false
+}

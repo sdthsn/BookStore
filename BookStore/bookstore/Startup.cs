@@ -25,7 +25,7 @@ namespace bookstore
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddAutoMapper();
-            services.AddScoped(_=> new BookstoreDbContext(Configuration.GetConnectionString("Bookstore")));
+            services.AddScoped(_=> new BookstoreDbContext(Configuration.GetConnectionString("SqlLocal")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             // In production, the Angular files will be served from this directory

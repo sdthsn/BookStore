@@ -3514,23 +3514,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mshsa\\.nuget\\packages\\": {},
+    "C:\\Users\\sHossain\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mshsa\\source\\repos\\BookStore\\BookStore\\TestDB\\TestDB.csproj",
+      "projectUniqueName": "C:\\Users\\sHossain\\Source\\Repos\\BookStore\\BookStore\\TestDB\\TestDB.csproj",
       "projectName": "TestDB",
-      "projectPath": "C:\\Users\\mshsa\\source\\repos\\BookStore\\BookStore\\TestDB\\TestDB.csproj",
-      "packagesPath": "C:\\Users\\mshsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mshsa\\source\\repos\\BookStore\\BookStore\\TestDB\\obj\\",
+      "projectPath": "C:\\Users\\sHossain\\Source\\Repos\\BookStore\\BookStore\\TestDB\\TestDB.csproj",
+      "packagesPath": "C:\\Users\\sHossain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sHossain\\Source\\Repos\\BookStore\\BookStore\\TestDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mshsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sHossain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -12,7 +12,7 @@ namespace TestDB
                 new Bookstore { AuthorName = "Shahadat", Name = "My Bio", PublisherName = "MSH Publication", Title = "This is it" },
                 new Bookstore { AuthorName = "Kaocher", Name = "Thoughts", PublisherName = "JKH Publication", Title = "Thinking is achieving" }
             };
-            var connectionString = "Data Source=localhost\\SQLExpress;Initial Catalog=bookstore;Integrated Security=True";
+            var connectionString = "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=bookstore;Integrated Security=True";
             using (var context = new BookstoreDbContext(connectionString))
             {
 

@@ -9,6 +9,7 @@ namespace bookstore.BookstoreDB
         public BookstoreDbContext(string connectionString) : base() 
         {
             _connectionString = connectionString;
+            Database.EnsureCreated();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
